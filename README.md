@@ -7,17 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/saifali52288962" target="blank"><img src="https://img.shields.io/twitter/follow/saifali52288962?logo=twitter&style=for-the-badge" alt="saifali52288962" /></a> </p>
 
-- I’m currently working on **Building **full stack web apps** with **React + Node.js + MySQL** - Exploring **LLMs and LangChain** for intelligent workflows - Hands-on with **Google Cloud (Vertex AI, GCP services)****
-
+- I’m currently working on **Building Backend Developer | Java Spring Boot | REST APIs | MySQL | Python
 - I’m currently learning **- **Next.js, GraphQL, and Kubernetes** - Advanced concepts in **Machine Learning & Cloud Pipelines****
 
-- I’m looking to collaborate on **- Full Stack projects (React, Node.js, Spring Boot) - AI/ML applications powered by **Python** and **Cloud****
-
+- I’m looking to collaborate on Backend Developer | Java Spring Boot | REST APIs | MySQL | Python
 - I’m looking for help with **Advanced **LLM integrations** - Scaling web apps on **GCP/AWS****
 
 - All of my projects are available at [Check my repositories [here](https://github.com/Khajasaifali?tab=repositories)](Check my repositories [here](https://github.com/Khajasaifali?tab=repositories))
 
-- I regularly write articles on [Writing soon on **AI, Cloud, and Full Stack Development**]
 - Ask me about ****React, Node.js, Spring Boot, Python, Cloud, ML models****
 
 - How to reach me **khajasaifali01@gmail.com**
