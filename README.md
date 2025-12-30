@@ -23,8 +23,6 @@
 
 - 📫 How to reach me **khajasaifali01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QaPZMRK6KSM0tN2MYSdndy1W0DiYLTxw/view?usp=drive_link](https://drive.google.com/file/d/1QaPZMRK6KSM0tN2MYSdndy1W0DiYLTxw/view?usp=drive_link)
-
 - ⚡ Fun fact **I balance my coding passion with **fitness** — I’ve trained 3 clients over the last year while consistently training myself in the gym for 2.5+ years 🏋️**
 
 <h3 align="left">Connect with me:</h3>
