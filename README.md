@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaja Saif Ali</h1>
-<h3 align="center">🚀 Full Stack Developer | Data Science Enthusiast | Cloud Explorer</h3>
+<h3 align="center">🚀 Backend Developer | Java Spring Boot | REST APIs | MySQL | Python | ML Projects </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khajasaifali&label=Profile%20views&color=0e75b6&style=flat" alt="khajasaifali" /> </p>
 
