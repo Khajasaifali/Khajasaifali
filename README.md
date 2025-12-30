@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Khaja Saif Ali</h1>
-<h3 align="center">🚀 Backend Developer | Java Spring Boot | REST APIs | MySQL | Python | ML Projects </h3>
+<h1 align="center">Hi, I'm Khaja Saif Ali</h1>
+<h3 align="center"> Backend Developer | Java Spring Boot | REST APIs | MySQL | Python | ML Projects </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khajasaifali&label=Profile%20views&color=0e75b6&style=flat" alt="khajasaifali" /> </p>
 
@@ -7,23 +7,20 @@
 
 <p align="left"> <a href="https://twitter.com/saifali52288962" target="blank"><img src="https://img.shields.io/twitter/follow/saifali52288962?logo=twitter&style=for-the-badge" alt="saifali52288962" /></a> </p>
 
-- 🔭 I’m currently working on **Building **full stack web apps** with **React + Node.js + MySQL** - Exploring **LLMs and LangChain** for intelligent workflows - Hands-on with **Google Cloud (Vertex AI, GCP services)****
+- I’m currently working on **Building **full stack web apps** with **React + Node.js + MySQL** - Exploring **LLMs and LangChain** for intelligent workflows - Hands-on with **Google Cloud (Vertex AI, GCP services)****
 
-- 🌱 I’m currently learning **- **Next.js, GraphQL, and Kubernetes** - Advanced concepts in **Machine Learning & Cloud Pipelines****
+- I’m currently learning **- **Next.js, GraphQL, and Kubernetes** - Advanced concepts in **Machine Learning & Cloud Pipelines****
 
-- 👯 I’m looking to collaborate on **- Full Stack projects (React, Node.js, Spring Boot) - AI/ML applications powered by **Python** and **Cloud****
+- I’m looking to collaborate on **- Full Stack projects (React, Node.js, Spring Boot) - AI/ML applications powered by **Python** and **Cloud****
 
-- 🤝 I’m looking for help with **Advanced **LLM integrations** - Scaling web apps on **GCP/AWS****
+- I’m looking for help with **Advanced **LLM integrations** - Scaling web apps on **GCP/AWS****
 
-- 👨‍💻 All of my projects are available at [Check my repositories [here](https://github.com/Khajasaifali?tab=repositories)](Check my repositories [here](https://github.com/Khajasaifali?tab=repositories))
+- All of my projects are available at [Check my repositories [here](https://github.com/Khajasaifali?tab=repositories)](Check my repositories [here](https://github.com/Khajasaifali?tab=repositories))
 
-- 📝 I regularly write articles on [Writing soon on **AI, Cloud, and Full Stack Development**](Writing soon on **AI, Cloud, and Full Stack Development**)
+- I regularly write articles on [Writing soon on **AI, Cloud, and Full Stack Development**]
+- Ask me about ****React, Node.js, Spring Boot, Python, Cloud, ML models****
 
-- 💬 Ask me about ****React, Node.js, Spring Boot, Python, Cloud, ML models****
-
-- 📫 How to reach me **khajasaifali01@gmail.com**
-
-- ⚡ Fun fact **I balance my coding passion with **fitness** — I’ve trained 3 clients over the last year while consistently training myself in the gym for 2.5+ years 🏋️**
+- How to reach me **khajasaifali01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
